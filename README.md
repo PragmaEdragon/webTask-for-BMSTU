@@ -14,4 +14,4 @@ Were used:
 0. Html.
 * * *
 
-![]https://github.com/PragmaEdragon/webTask-for-BMSTU/blob/master/indexPage.png
+![alt text](webTask-for-BMSTU/codePage.png "Описание будет тут")
