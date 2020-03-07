@@ -13,5 +13,6 @@ Were used:
 0. Css  
 0. Html.
 * * *
-
+![alt text](/indexPage.png)
+* * *
 ![alt text](/codePage.png )
