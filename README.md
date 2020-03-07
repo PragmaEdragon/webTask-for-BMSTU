@@ -1,2 +1,4 @@
-# h1 
-webTask-for-BMSTU
+# webTask-for-BMSTU
+* * *
+     print 'Hello, World!'
+
