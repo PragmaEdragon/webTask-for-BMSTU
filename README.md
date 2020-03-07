@@ -14,4 +14,4 @@ Were used:
 0. Html.
 * * *
 
-![alt text](/webTask-for-BMSTU/blob/master/codePage.png )
+![alt text](/codePage.png )
