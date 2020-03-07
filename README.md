@@ -7,11 +7,11 @@
 * * *
 
 Were used:
-0. microframework called Flask 
-0. JS
-0. Some bootstrap
-0. Css  
-0. Html.
+1. microframework called Flask 
+1. JS
+1. Some bootstrap
+1. Css  
+1. Html.
 * * *
 ![alt text](/indexPage.png)
 * * *
